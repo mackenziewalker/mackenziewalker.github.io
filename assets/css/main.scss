@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "color";
+@import "navbar";
+@import "section";
+
+
+@import "landing";
+// @import "about";
+// @import "project";
+// @import "background";
+
+
+body {
+  //background-image: url('/assets/img/background/tree_bark/tree_bark.png');
+  font-family:  'Concert One', cursive;
+
+  #menu {
+    -webkit-animation-duration: .5s;
+    animation-duration: .5s;
+  }
+}
+
+.social-link {
+  color: $white;
+  &:hover{
+    color:$mediumlightGrey;
+  }
+}
