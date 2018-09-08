@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mackenziewalker.github.io" # the base hostname & protocol for your site
 name: Rett Walker
+buybuybaby_link: https://www.buybuybaby.com/store/giftregistry/viewregistryguest/546390207
+amazon_registery_link: https://www.amazon.com/baby-reg/molly-walker-february-2019-marietta/1VJLVN7VE7OKN
 
 
 # Build settings

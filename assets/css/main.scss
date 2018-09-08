@@ -27,5 +27,6 @@ body {
   color: $white;
   &:hover{
     color:$mediumlightGrey;
+    text-decoration: none;
   }
 }
